@@ -58,5 +58,5 @@ y4 = lsim(G4, r, t);
 y5 = lsim(G5, r, t);
 plot(t, r, t, y1, t, y2, t, y3, t, y4, t, y5);
 axis([0 10 -0.1 1.2]);
-legend('0.1','0.25','0.5','1', '2');
+legend('input','0.1','0.25','0.5','1', '2');
 clear;
