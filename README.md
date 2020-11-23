@@ -2,11 +2,10 @@
 matlab codes for ACS
 |file name|memo|link|page|
 |--|--|--|--|
-|lecture02_1.m||||
-|lecture02 code||||
-|lecture02_2.m||||
-|lecture02_3.m||||
-|lecture02_4.m||||
+|lecture02_1.m|Laplace transformation coefficient|||
+|lecture02_2.m|`partfrac()`|||
+|lecture02_3.m|Laplace transformation `laplace()`, `ilaplace()`|||
+|lecture02_4.m|`ilaplace()`, `pretty()`, `limit()`(p31)|||
 |lecture02_5.m||||
 |lecture03_0.m||||
 |lecture03_1.m||||
@@ -29,4 +28,4 @@ matlab codes for ACS
 |homework01_2F.slx|hw1|||
 |homework02_1.m|hw2|||
 |homework02_2.m|hw2|||
-
+|||||
