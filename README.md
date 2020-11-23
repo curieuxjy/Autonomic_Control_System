@@ -10,7 +10,7 @@ matlab codes for ACS
 |[lecture03_0.m](./lecture03_0.m)|State space model `ss()`||
 |[lecture03_1.m](./lecture03_1.m)|Transfer function model, impulse input|5|
 |[lecture03_2.m](./lecture03_2.m)|Transfer function model, step input|7|
-|[lecture03_3.m](./lecture03_3.m)|`conv()`||
+|[lecture03_3.m](./lecture03_3.m)|Convolution `conv()`||
 |[lecture03_4.m](./lecture03_4.m)|Frequency response, magnitude, phase|35|
 |[lecture03_5.m](./lecture03_5.m)|Nyquist curve|42|
 |[lecture03_6.m](./lecture03_6.m)|Nyquist curve `nyquist()`|43|
