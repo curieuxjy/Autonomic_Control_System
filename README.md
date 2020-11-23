@@ -5,7 +5,7 @@ matlab codes for ACS
 |[lecture02_1.m](https://github.com/curieuxjy/Autonomic_Control_System/blob/master/lecture02_1.m)|Laplace transformation coefficient|22|
 |[lecture02_2.m](https://github.com/curieuxjy/Autonomic_Control_System/blob/master/lecture02_2.m)|`partfrac()`|23|
 |[lecture02_3.m](https://github.com/curieuxjy/Autonomic_Control_System/blob/master/lecture02_3.m)|Laplace transformation `laplace()`, `ilaplace()`|27-30|
-|lecture02_4.m|`ilaplace()`, `pretty()`, `limit()`(p31)|||
+|[lecture02_4.m](./lecture02_4.m)|`ilaplace()`, `pretty()`, `limit()`|31|
 |lecture02_5.m||||
 |lecture03_0.m||||
 |lecture03_1.m||||
