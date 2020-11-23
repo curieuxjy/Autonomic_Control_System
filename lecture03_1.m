@@ -1,3 +1,4 @@
+% transfer function model
 % G(s) = 1/(0.5s+1)
 % impluse input @ 1[sec]
 numG = [1]; denG = [0.5 1]; G = tf(numG,denG);
