@@ -22,10 +22,21 @@ matlab codes for ACS
 |[lecture04_3.m](./lecture04_3.m)|Root table `solve()`|24|
 |[lecture04_4.m](./lecture04_4.m)|Root locus `rlocus()`|27|
 |[lecture04_5.m](./lecture04_5.m)|Phase margin, Gain margin `margin()`|52|
+|[lecture05_1.m](./lecture05_1.m)|PID control, margin|27|
+|[lecture05_2.m](./lecture05_2.m)|PID control, step reference|27|
+|[lecture05_3.m](./lecture05_3.m)|PID control, Sensitivity|28|
+|lecture05_4.slx|PID control, Simulink|28|
+|[lecture05_5.m](./lecture05_5.m)|Lead design|38|
+|[lecture05_6.m](./lecture05_6.m)|Leag design|39|
+|[lecture05_7.m](./lecture05_7.m)|Lead-Lag design|40|
+|[lecture05_8.m](./lecture05_8.m)|Pole Placement by State Feedback|64|
+|lecture05_9.slx|Pole Placement by State Feedback, Simulink|66|
+|[lecture05_10.m](./lecture05_10.m)|Pole Placement in State Observer Design|72|
+|[lecture05_11.m](./lecture05_11.m)|Observer-based State Feedback|78|
+|lecture05_12.slx|Observer-based State Feedback, Simulink|79|
 |homework01_1.m|hw1|||
 |homework01_1D.slx|hw1||
 |homework01_2.m|hw1|||
 |homework01_2F.slx|hw1|||
 |homework02_1.m|hw2|||
 |homework02_2.m|hw2|||
-|||||
